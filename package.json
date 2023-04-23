@@ -1,5 +1,5 @@
 {
-  "name": "typescript-upgrade",
+  "name": "demo-typescript-react-server",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,7 +14,9 @@
     "@types/react-dom": "18.0.11",
     "next": "13.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "5.0.4"
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.1.0-beta"
   }
 }
